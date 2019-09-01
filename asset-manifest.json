@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/minigame/static/css/main.8c34c9de.chunk.css",
-    "main.js": "/minigame/static/js/main.a30d85c1.chunk.js",
-    "main.js.map": "/minigame/static/js/main.a30d85c1.chunk.js.map",
-    "runtime~main.js": "/minigame/static/js/runtime~main.b1ff0f94.js",
-    "runtime~main.js.map": "/minigame/static/js/runtime~main.b1ff0f94.js.map",
-    "static/css/2.2d7ed268.chunk.css": "/minigame/static/css/2.2d7ed268.chunk.css",
-    "static/js/2.1b9dd7b2.chunk.js": "/minigame/static/js/2.1b9dd7b2.chunk.js",
-    "static/js/2.1b9dd7b2.chunk.js.map": "/minigame/static/js/2.1b9dd7b2.chunk.js.map",
-    "index.html": "/minigame/index.html",
-    "precache-manifest.0eb64b67900f907aceac3b6538ad94a9.js": "/minigame/precache-manifest.0eb64b67900f907aceac3b6538ad94a9.js",
-    "service-worker.js": "/minigame/service-worker.js",
-    "static/css/2.2d7ed268.chunk.css.map": "/minigame/static/css/2.2d7ed268.chunk.css.map",
-    "static/css/main.8c34c9de.chunk.css.map": "/minigame/static/css/main.8c34c9de.chunk.css.map",
-    "static/media/header.jpg": "/minigame/static/media/header.a5169ac8.jpg"
+    "main.css": "/little-game/static/css/main.8c34c9de.chunk.css",
+    "main.js": "/little-game/static/js/main.ce56793f.chunk.js",
+    "main.js.map": "/little-game/static/js/main.ce56793f.chunk.js.map",
+    "runtime~main.js": "/little-game/static/js/runtime~main.c136a93b.js",
+    "runtime~main.js.map": "/little-game/static/js/runtime~main.c136a93b.js.map",
+    "static/css/2.2d7ed268.chunk.css": "/little-game/static/css/2.2d7ed268.chunk.css",
+    "static/js/2.1b9dd7b2.chunk.js": "/little-game/static/js/2.1b9dd7b2.chunk.js",
+    "static/js/2.1b9dd7b2.chunk.js.map": "/little-game/static/js/2.1b9dd7b2.chunk.js.map",
+    "index.html": "/little-game/index.html",
+    "precache-manifest.3764e6c45a921cbc23aad71bde8f6501.js": "/little-game/precache-manifest.3764e6c45a921cbc23aad71bde8f6501.js",
+    "service-worker.js": "/little-game/service-worker.js",
+    "static/css/2.2d7ed268.chunk.css.map": "/little-game/static/css/2.2d7ed268.chunk.css.map",
+    "static/css/main.8c34c9de.chunk.css.map": "/little-game/static/css/main.8c34c9de.chunk.css.map",
+    "static/media/header.jpg": "/little-game/static/media/header.a5169ac8.jpg"
   }
 }
