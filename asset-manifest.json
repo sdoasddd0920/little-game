@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/little-game/static/css/main.56cd4f27.chunk.css",
-    "main.js": "/little-game/static/js/main.c1619acf.chunk.js",
-    "main.js.map": "/little-game/static/js/main.c1619acf.chunk.js.map",
+    "main.js": "/little-game/static/js/main.bf615f0f.chunk.js",
+    "main.js.map": "/little-game/static/js/main.bf615f0f.chunk.js.map",
     "runtime~main.js": "/little-game/static/js/runtime~main.c136a93b.js",
     "runtime~main.js.map": "/little-game/static/js/runtime~main.c136a93b.js.map",
     "static/css/2.f815075f.chunk.css": "/little-game/static/css/2.f815075f.chunk.css",
     "static/js/2.c51cc5be.chunk.js": "/little-game/static/js/2.c51cc5be.chunk.js",
     "static/js/2.c51cc5be.chunk.js.map": "/little-game/static/js/2.c51cc5be.chunk.js.map",
     "index.html": "/little-game/index.html",
-    "precache-manifest.49dd9619929fceb93b6cdba639c51d2f.js": "/little-game/precache-manifest.49dd9619929fceb93b6cdba639c51d2f.js",
+    "precache-manifest.1bb66372a92a26602679c31e634ae3d6.js": "/little-game/precache-manifest.1bb66372a92a26602679c31e634ae3d6.js",
     "service-worker.js": "/little-game/service-worker.js",
     "static/css/2.f815075f.chunk.css.map": "/little-game/static/css/2.f815075f.chunk.css.map",
     "static/css/main.56cd4f27.chunk.css.map": "/little-game/static/css/main.56cd4f27.chunk.css.map",
