@@ -1,0 +1,125 @@
+.p-success {
+  .title {
+    font-family: PingFangSC-Semibold;
+    font-size: 18px;
+    color: #212121;
+    letter-spacing: 0.5px;
+    position: relative;
+    margin-left: 20px;
+    display: inline-block;
+
+    &::before {
+      content: '';
+      width: 16px;
+      height: 16px;
+      // background: #3882ff;
+      background: url(../images/success.png);
+      background-size: 100%;
+      position: absolute;
+      left: -20px;
+      top: 50%;
+      margin-top: -8px;
+    }
+  }
+
+  .content {
+    // width: 100%;
+    background: #F5F5F5;
+    text-align: center;
+    padding: 30px 12px 20px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    letter-spacing: -0.3px;
+    line-height: 18px;
+  }
+
+  .card {
+    background: white;
+    border-radius: 8px;
+    margin-top: 16px;
+    box-shadow: 0 4px 4px 0 rgba(0,0,0,0.08);
+  }
+
+  .head {
+    padding: 16px 12px;
+    text-align: left;
+    border: 1px solid #F5F5F5;
+  }
+
+  .line-1 {
+    display: flex;
+    align-items: center;
+    font-family: PingFangSC-Semibold;
+    font-size: 17px;
+    line-height: 24px;
+    color: #212121;
+  }
+
+  .arrow {
+    display: inline-block;
+    margin-left: auto;
+  }
+
+  .line-2 {
+    color: #212121;
+    margin-top: 2px;
+    margin-bottom: 8px;
+  }
+
+  .line-3 {
+    color: #969BA3;
+    margin-top: 4px;
+
+    span {
+      color: #260000;
+    }
+  }
+
+  .qr-code {
+    padding: 14px 0 20px;
+    // height: 100px;
+    canvas {
+      padding: 4px;
+    }
+  }
+
+  .price {
+    padding: 0 12px;
+    height: 49px;
+    display: flex;
+    align-items: center;
+    text-align: left;
+    border-top: 1px solid #F5F5F5;
+    color: #212121;
+  }
+
+  .red-price {
+    margin-left: auto;
+  }
+
+  .game-info {
+    padding: 0 12px;
+    margin-bottom: 83px;
+  }
+
+  .game-item {
+    padding: 12px 0;
+    margin-bottom: 1px;
+    border-bottom: 1px solid #F5F5F5;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #56595E;
+    letter-spacing: -0.3px;
+    line-height: 20px;
+
+    & > div {
+      display: inline-block;
+      vertical-align: text-top;
+    }
+
+    .game-item-left {
+      width: 108px;
+      color: #212121;
+    }
+  }
+}
