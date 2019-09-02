@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "86166bb880303786441118f712989ffd",
+    "revision": "7ee38449b61777f2eec4669daa19a563",
     "url": "/little-game/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/little-game/static/css/2.fb3bc7a8.chunk.css"
   },
   {
-    "revision": "dcec55dda72d8b36f13a",
-    "url": "/little-game/static/css/main.f90f7f12.chunk.css"
+    "revision": "df3b35b2340f6c66a880",
+    "url": "/little-game/static/css/main.99b4de55.chunk.css"
   },
   {
     "revision": "c4877c54cd4ebd86407d",
     "url": "/little-game/static/js/2.d67a42ea.chunk.js"
   },
   {
-    "revision": "dcec55dda72d8b36f13a",
+    "revision": "df3b35b2340f6c66a880",
     "url": "/little-game/static/js/main.f75c619e.chunk.js"
   },
   {
