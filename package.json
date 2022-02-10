@@ -5,7 +5,7 @@
   "homepage": "https://sdoasddd0921.github.io/minigame",
   "dependencies": {
     "antd-mobile": "^2.3.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "qrcode.react": "^0.9.3",
     "rc-form-hooks": "0.0.1-alpha.22",
     "react": "^16.9.0",
